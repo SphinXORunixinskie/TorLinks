@@ -9,3 +9,23 @@ Popular Tor Website Links
 * Hidden Wiki: http://jh32yv5zgayyyts3.onion/
 * Hidden Wiki from FreedomHosting: http://3fyb44wdhnd2ghhl.onion/wiki/index.php?title=Main_Page
 
+# Social Media
+* Facebook Tor Node: https://www.facebookcorewwwi.onion/
+
+# Crypto Currency
+* Blockchain.info: https://blockchainbdgpzk.onion/
+
+# Science
+* SciHub: http://scihub22266oqcxt.onion/
+
+# Anonymous Journalism and Whistleblowing
+* The Intercept Submission Platform: https://y6xjgkgwj47us5ca.onion/
+* WikiLeaks Submission Platform: http://suw74isz7wqzpmgu.onion/
+* Courage Snowden: http://cjx2v2gnejs65k7e.onion/
+
+# Security
+* Keybase: http://fncuwbiisyh6ak3i.onion/
+
+# Email
+* Onion Mail: http://iir4yomndw2dec7x.onion/
+* SIGAINT (DEFUNCT!!): http://sigaintevyh2rzvw.onion/
